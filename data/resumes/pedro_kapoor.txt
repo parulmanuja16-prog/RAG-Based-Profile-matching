@@ -1,0 +1,34 @@
+Pedro Kapoor
+pedro.kapoor@example.com | +91 9819883161 | Remote
+
+SUMMARY
+4+ years of experience. Machine learning engineer who takes models from research to production, with a focus on scalable training pipelines, model serving and monitoring.
+
+CORE COMPETENCIES
+Core: FastAPI, Docker, Python, MLOps
+Tools & Platforms: Airflow, AWS, PyTorch, Scikit-learn
+Also familiar with: Deep Learning, Machine Learning, MLflow, Spark
+
+EXPERIENCE
+Machine Learning Engineer | Vertex Fintech | Jul 2025 – Present
+• Built and deployed Machine Learning ranking models in Python and PyTorch serving 63M predictions per day, lifting click-through rate by 47%.
+• Designed an MLOps platform on AWS with MLflow experiment tracking and automated retraining, cutting model release time from 67 weeks to 2 days.
+• Containerised inference services with Docker and Kubernetes, reducing p95 latency by 49%.
+• Trained Deep Learning models for image classification using PyTorch; improved F1 by 42% over the previous baseline.
+Tech: Python, PyTorch, Machine Learning, SQL, Kubernetes
+Machine Learning Engineer | Atlas Logistics | Feb 2023 – Jun 2025
+• Optimised TensorFlow and PyTorch training jobs with mixed precision and distributed training, saving 43% GPU cost.
+• Built and deployed Machine Learning ranking models in Python and PyTorch serving 81M predictions per day, lifting click-through rate by 30%.
+• Implemented model monitoring (drift, data quality) and alerting, preventing 47 production incidents.
+Tech: Python, PyTorch, Machine Learning, Scikit-learn, Kubernetes
+
+KEY PROJECTS
+• Real-time fraud scoring service: PyTorch model behind a FastAPI endpoint, deployed with Docker on AWS.
+
+EDUCATION
+• MS in Computer Science — TU Munich (2020 – 2022)
+• BS in Computer Science — IIT Bombay (2016 – 2020)
+
+CERTIFICATIONS
+• AWS Certified Machine Learning - Specialty
+• TensorFlow Developer Certificate
