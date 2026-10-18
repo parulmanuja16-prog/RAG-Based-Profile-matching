@@ -1,0 +1,38 @@
+Arjun Conti
+arjun.conti@example.com | +91 9833048757 | Mumbai
+
+PROFESSIONAL SUMMARY
+7+ years of experience. Data scientist who turns messy business data into predictive models and experiments that drive decisions.
+
+CORE COMPETENCIES
+Core: A/B Testing, Git, PyTorch
+Tools & Platforms: Python, SQL, Pandas
+Also familiar with: NumPy, Statistics, Machine Learning
+
+WORK EXPERIENCE
+Senior Data Scientist | Brightpath Education | May 2024 – Present
+• Created a Recommender Systems prototype using Machine Learning that increased basket size by 30%.
+• Developed demand forecasting with Time Series models, improving forecast accuracy by 21%.
+• Presented findings to leadership through Tableau dashboards and Data Visualization stories.
+Tech: Python, SQL, Statistics, Git, XGBoost
+Senior Data Scientist | Orbital Payments | Jul 2021 – Apr 2024
+• Partnered with product managers to define KPIs and run Statistics-driven hypothesis testing.
+• Developed demand forecasting with Time Series models, improving forecast accuracy by 35%.
+Tech: Python, SQL, Statistics, Recommender Systems, Git
+Data Scientist | Meridian Bank | Nov 2019 – Jun 2021
+• Designed and analysed A/B Testing experiments using Statistics (power analysis, CUPED) for 4 product launches.
+• Presented findings to leadership through Tableau dashboards and Data Visualization stories.
+• Built churn prediction models with XGBoost and Scikit-learn in Python, reducing churn by 60%.
+Tech: Python, SQL, Statistics, Spark, Tableau
+
+KEY PROJECTS
+• Experimentation toolkit in Python for sequential A/B Testing.
+• Customer lifetime value model with XGBoost and Pandas; deployed as a weekly batch job.
+
+EDUCATION
+• Master of Science in Statistics — NIT Trichy (2016 – 2018)
+• Bachelor of Technology in Statistics — Pune University (2012 – 2016)
+
+CERTIFICATIONS
+• IBM Data Science Professional Certificate
+• Google Data Analytics Certificate

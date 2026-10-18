@@ -1,0 +1,30 @@
+Aarav Das
+aarav.das@example.com | +91 9890660151 | Austin, TX
+
+PROFILE
+Machine learning engineer who takes models from research to production, with a focus on scalable training pipelines, model serving and monitoring.
+
+TECHNICAL SKILLS
+Core: AWS, Machine Learning, Python
+Tools & Platforms: Spark, Docker, TensorFlow
+Also familiar with: MLOps, PyTorch, FastAPI
+
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer | Ironclad Security | Aug 2023 – Present
+• Trained Deep Learning models for image classification using PyTorch; improved F1 by 58% over the previous baseline.
+• Containerised inference services with Docker and Kubernetes, reducing p95 latency by 52%.
+• Designed an MLOps platform on AWS with MLflow experiment tracking and automated retraining, cutting model release time from 43 weeks to 2 days.
+Tech: Python, PyTorch, Machine Learning, Airflow, FastAPI
+Machine Learning Engineer | Northwind Analytics | May 2022 – Jul 2023
+• Containerised inference services with Docker and Kubernetes, reducing p95 latency by 59%.
+• Trained Deep Learning models for image classification using PyTorch; improved F1 by 32% over the previous baseline.
+• Optimised TensorFlow and PyTorch training jobs with mixed precision and distributed training, saving 19% GPU cost.
+Tech: Python, PyTorch, Machine Learning, MLflow, Git
+
+KEY PROJECTS
+• Open-source model registry helper for MLflow used by 13 teams.
+• Real-time fraud scoring service: PyTorch model behind a FastAPI endpoint, deployed with Docker on AWS.
+
+ACADEMIC BACKGROUND
+• MS in Computer Science — National University of Singapore (2019 – 2021)
+• BS in Computer Science — University of Toronto (2015 – 2019)

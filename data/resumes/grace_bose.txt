@@ -1,0 +1,33 @@
+Grace Bose
+grace.bose@example.com | +91 9874309309 | Bengaluru
+
+PROFESSIONAL SUMMARY
+DevOps / SRE engineer automating cloud infrastructure, delivery pipelines and observability.
+
+CORE COMPETENCIES
+Core: Python, Linux, Terraform, Bash
+Tools & Platforms: Ansible, Docker, Amazon Web Services
+Also familiar with: CI/CD, k8s, Prometheus
+
+EXPERIENCE
+DevOps Engineer | Orbital Payments | Jun 2023 – Present
+• Led on-call rotations and blameless post-mortems; achieved 99.95% availability.
+• Hardened Docker images and rolled out autoscaling, saving 23% cloud spend.
+• Provisioned multi-account Amazon Web Services infrastructure using Terraform (Infrastructure as Code), reducing environment setup from days to 50 minutes.
+Tech: k8s, Terraform, Amazon Web Services, GitHub Actions, Jenkins
+DevOps Engineer | Brightpath Education | Aug 2022 – May 2023
+• Implemented Observability with Prometheus, Grafana and Datadog; reduced MTTR by 33%.
+• Built continuous integration pipelines in Jenkins and GitHub Actions cutting deployment time by 43%.
+• Hardened Docker images and rolled out autoscaling, saving 15% cloud spend.
+Tech: k8s, Terraform, Amazon Web Services, Bash, Grafana
+
+KEY PROJECTS
+• Self-service platform for ephemeral environments using k8s and Terraform.
+• Cost-reporting tool in Python for Amazon Web Services accounts.
+
+EDUCATION
+• Bachelor of Engineering in Electronics — University of Waterloo (2018 – 2022)
+
+CERTIFICATIONS
+• Certified Kubernetes Administrator (CKA)
+• HashiCorp Certified: Terraform Associate
